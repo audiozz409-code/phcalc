@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calc.philippines.xyz/sitemap.xml
+Sitemap: https://calc.philipines.xyz/sitemap.xml
